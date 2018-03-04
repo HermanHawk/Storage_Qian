@@ -1,0 +1,6 @@
+C:\Users\Herman\Desktop\c#_practice\mypractice\接口\bin\Debug\接口.exe.config
+C:\Users\Herman\Desktop\c#_practice\mypractice\接口\bin\Debug\接口.exe
+C:\Users\Herman\Desktop\c#_practice\mypractice\接口\bin\Debug\接口.pdb
+C:\Users\Herman\Desktop\c#_practice\mypractice\接口\obj\Debug\接口.csprojResolveAssemblyReference.cache
+C:\Users\Herman\Desktop\c#_practice\mypractice\接口\obj\Debug\接口.exe
+C:\Users\Herman\Desktop\c#_practice\mypractice\接口\obj\Debug\接口.pdb

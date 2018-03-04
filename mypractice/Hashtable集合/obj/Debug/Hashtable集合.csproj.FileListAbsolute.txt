@@ -1,0 +1,6 @@
+C:\Users\Herman\Desktop\c#_practice\mypractice\Hashtable集合\bin\Debug\Hashtable集合.exe.config
+C:\Users\Herman\Desktop\c#_practice\mypractice\Hashtable集合\bin\Debug\Hashtable集合.exe
+C:\Users\Herman\Desktop\c#_practice\mypractice\Hashtable集合\bin\Debug\Hashtable集合.pdb
+C:\Users\Herman\Desktop\c#_practice\mypractice\Hashtable集合\obj\Debug\Hashtable集合.csprojResolveAssemblyReference.cache
+C:\Users\Herman\Desktop\c#_practice\mypractice\Hashtable集合\obj\Debug\Hashtable集合.exe
+C:\Users\Herman\Desktop\c#_practice\mypractice\Hashtable集合\obj\Debug\Hashtable集合.pdb

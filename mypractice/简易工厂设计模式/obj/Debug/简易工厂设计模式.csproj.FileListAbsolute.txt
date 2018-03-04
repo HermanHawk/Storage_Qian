@@ -1,0 +1,6 @@
+C:\Users\Herman\Desktop\c#_practice\mypractice\简易工厂设计模式\bin\Debug\简易工厂设计模式.exe.config
+C:\Users\Herman\Desktop\c#_practice\mypractice\简易工厂设计模式\bin\Debug\简易工厂设计模式.exe
+C:\Users\Herman\Desktop\c#_practice\mypractice\简易工厂设计模式\bin\Debug\简易工厂设计模式.pdb
+C:\Users\Herman\Desktop\c#_practice\mypractice\简易工厂设计模式\obj\Debug\简易工厂设计模式.csprojResolveAssemblyReference.cache
+C:\Users\Herman\Desktop\c#_practice\mypractice\简易工厂设计模式\obj\Debug\简易工厂设计模式.exe
+C:\Users\Herman\Desktop\c#_practice\mypractice\简易工厂设计模式\obj\Debug\简易工厂设计模式.pdb

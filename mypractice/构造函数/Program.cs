@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace 构造函数
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            student s = new student("张三", 22, '男');
+            s.GzHanshu();
+        }
+    }
+}

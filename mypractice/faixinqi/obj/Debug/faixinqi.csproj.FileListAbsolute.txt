@@ -1,0 +1,6 @@
+C:\Users\Herman\Desktop\c#_practice\mypractice\faixinqi\bin\Debug\faixinqi.exe.config
+C:\Users\Herman\Desktop\c#_practice\mypractice\faixinqi\bin\Debug\faixinqi.exe
+C:\Users\Herman\Desktop\c#_practice\mypractice\faixinqi\bin\Debug\faixinqi.pdb
+C:\Users\Herman\Desktop\c#_practice\mypractice\faixinqi\obj\Debug\faixinqi.csprojResolveAssemblyReference.cache
+C:\Users\Herman\Desktop\c#_practice\mypractice\faixinqi\obj\Debug\faixinqi.exe
+C:\Users\Herman\Desktop\c#_practice\mypractice\faixinqi\obj\Debug\faixinqi.pdb

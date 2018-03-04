@@ -1,0 +1,6 @@
+C:\Users\Herman\Desktop\c#_practice\mypractice\装箱和拆箱\bin\Debug\装箱和拆箱.exe.config
+C:\Users\Herman\Desktop\c#_practice\mypractice\装箱和拆箱\bin\Debug\装箱和拆箱.exe
+C:\Users\Herman\Desktop\c#_practice\mypractice\装箱和拆箱\bin\Debug\装箱和拆箱.pdb
+C:\Users\Herman\Desktop\c#_practice\mypractice\装箱和拆箱\obj\Debug\装箱和拆箱.csprojResolveAssemblyReference.cache
+C:\Users\Herman\Desktop\c#_practice\mypractice\装箱和拆箱\obj\Debug\装箱和拆箱.exe
+C:\Users\Herman\Desktop\c#_practice\mypractice\装箱和拆箱\obj\Debug\装箱和拆箱.pdb

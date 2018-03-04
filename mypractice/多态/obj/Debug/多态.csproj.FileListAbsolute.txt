@@ -1,0 +1,6 @@
+C:\Users\Herman\Desktop\c#_practice\mypractice\多态\bin\Debug\多态.exe.config
+C:\Users\Herman\Desktop\c#_practice\mypractice\多态\bin\Debug\多态.exe
+C:\Users\Herman\Desktop\c#_practice\mypractice\多态\bin\Debug\多态.pdb
+C:\Users\Herman\Desktop\c#_practice\mypractice\多态\obj\Debug\多态.csprojResolveAssemblyReference.cache
+C:\Users\Herman\Desktop\c#_practice\mypractice\多态\obj\Debug\多态.exe
+C:\Users\Herman\Desktop\c#_practice\mypractice\多态\obj\Debug\多态.pdb

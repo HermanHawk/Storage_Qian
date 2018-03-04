@@ -1,0 +1,6 @@
+C:\Users\Herman\Desktop\c#_practice\mypractice\File和path的练习\bin\Debug\File和path的练习.exe.config
+C:\Users\Herman\Desktop\c#_practice\mypractice\File和path的练习\bin\Debug\File和path的练习.exe
+C:\Users\Herman\Desktop\c#_practice\mypractice\File和path的练习\bin\Debug\File和path的练习.pdb
+C:\Users\Herman\Desktop\c#_practice\mypractice\File和path的练习\obj\Debug\File和path的练习.csprojResolveAssemblyReference.cache
+C:\Users\Herman\Desktop\c#_practice\mypractice\File和path的练习\obj\Debug\File和path的练习.exe
+C:\Users\Herman\Desktop\c#_practice\mypractice\File和path的练习\obj\Debug\File和path的练习.pdb

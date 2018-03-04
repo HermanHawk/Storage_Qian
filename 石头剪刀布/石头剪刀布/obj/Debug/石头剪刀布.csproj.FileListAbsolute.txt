@@ -1,0 +1,9 @@
+C:\Users\Herman\Desktop\c#_practice\石头剪刀布\石头剪刀布\bin\Debug\石头剪刀布.exe.config
+C:\Users\Herman\Desktop\c#_practice\石头剪刀布\石头剪刀布\bin\Debug\石头剪刀布.exe
+C:\Users\Herman\Desktop\c#_practice\石头剪刀布\石头剪刀布\bin\Debug\石头剪刀布.pdb
+C:\Users\Herman\Desktop\c#_practice\石头剪刀布\石头剪刀布\obj\Debug\石头剪刀布.csprojResolveAssemblyReference.cache
+C:\Users\Herman\Desktop\c#_practice\石头剪刀布\石头剪刀布\obj\Debug\石头剪刀布.Form1.resources
+C:\Users\Herman\Desktop\c#_practice\石头剪刀布\石头剪刀布\obj\Debug\石头剪刀布.Properties.Resources.resources
+C:\Users\Herman\Desktop\c#_practice\石头剪刀布\石头剪刀布\obj\Debug\石头剪刀布.csproj.GenerateResource.Cache
+C:\Users\Herman\Desktop\c#_practice\石头剪刀布\石头剪刀布\obj\Debug\石头剪刀布.exe
+C:\Users\Herman\Desktop\c#_practice\石头剪刀布\石头剪刀布\obj\Debug\石头剪刀布.pdb

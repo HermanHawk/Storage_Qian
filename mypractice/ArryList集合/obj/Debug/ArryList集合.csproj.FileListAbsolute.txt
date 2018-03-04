@@ -1,0 +1,6 @@
+C:\Users\Herman\Desktop\c#_practice\mypractice\ArryList集合\bin\Debug\ArryList集合.exe.config
+C:\Users\Herman\Desktop\c#_practice\mypractice\ArryList集合\bin\Debug\ArryList集合.exe
+C:\Users\Herman\Desktop\c#_practice\mypractice\ArryList集合\bin\Debug\ArryList集合.pdb
+C:\Users\Herman\Desktop\c#_practice\mypractice\ArryList集合\obj\Debug\ArryList集合.csprojResolveAssemblyReference.cache
+C:\Users\Herman\Desktop\c#_practice\mypractice\ArryList集合\obj\Debug\ArryList集合.exe
+C:\Users\Herman\Desktop\c#_practice\mypractice\ArryList集合\obj\Debug\ArryList集合.pdb

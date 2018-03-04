@@ -1,0 +1,6 @@
+C:\Users\Herman\Desktop\c#_practice\mypractice\stringbuilder\bin\Debug\stringbuilder.exe.config
+C:\Users\Herman\Desktop\c#_practice\mypractice\stringbuilder\bin\Debug\stringbuilder.exe
+C:\Users\Herman\Desktop\c#_practice\mypractice\stringbuilder\bin\Debug\stringbuilder.pdb
+C:\Users\Herman\Desktop\c#_practice\mypractice\stringbuilder\obj\Debug\stringbuilder.csprojResolveAssemblyReference.cache
+C:\Users\Herman\Desktop\c#_practice\mypractice\stringbuilder\obj\Debug\stringbuilder.exe
+C:\Users\Herman\Desktop\c#_practice\mypractice\stringbuilder\obj\Debug\stringbuilder.pdb

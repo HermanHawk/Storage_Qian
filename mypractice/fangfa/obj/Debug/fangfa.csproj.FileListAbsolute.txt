@@ -1,0 +1,6 @@
+C:\Users\Herman\Desktop\c#_practice\mypractice\fangfa\bin\Debug\fangfa.exe.config
+C:\Users\Herman\Desktop\c#_practice\mypractice\fangfa\bin\Debug\fangfa.exe
+C:\Users\Herman\Desktop\c#_practice\mypractice\fangfa\bin\Debug\fangfa.pdb
+C:\Users\Herman\Desktop\c#_practice\mypractice\fangfa\obj\Debug\fangfa.csprojResolveAssemblyReference.cache
+C:\Users\Herman\Desktop\c#_practice\mypractice\fangfa\obj\Debug\fangfa.exe
+C:\Users\Herman\Desktop\c#_practice\mypractice\fangfa\obj\Debug\fangfa.pdb

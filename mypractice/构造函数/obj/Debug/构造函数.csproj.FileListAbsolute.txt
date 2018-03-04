@@ -1,0 +1,6 @@
+C:\Users\Herman\Desktop\c#_practice\mypractice\构造函数\bin\Debug\构造函数.exe.config
+C:\Users\Herman\Desktop\c#_practice\mypractice\构造函数\bin\Debug\构造函数.exe
+C:\Users\Herman\Desktop\c#_practice\mypractice\构造函数\bin\Debug\构造函数.pdb
+C:\Users\Herman\Desktop\c#_practice\mypractice\构造函数\obj\Debug\构造函数.csprojResolveAssemblyReference.cache
+C:\Users\Herman\Desktop\c#_practice\mypractice\构造函数\obj\Debug\构造函数.exe
+C:\Users\Herman\Desktop\c#_practice\mypractice\构造函数\obj\Debug\构造函数.pdb

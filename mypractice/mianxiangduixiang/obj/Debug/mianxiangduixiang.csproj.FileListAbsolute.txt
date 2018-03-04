@@ -1,0 +1,6 @@
+C:\Users\Herman\Desktop\c#_practice\mypractice\mianxiangduixiang\bin\Debug\mianxiangduixiang.exe.config
+C:\Users\Herman\Desktop\c#_practice\mypractice\mianxiangduixiang\obj\Debug\mianxiangduixiang.csprojResolveAssemblyReference.cache
+C:\Users\Herman\Desktop\c#_practice\mypractice\mianxiangduixiang\bin\Debug\mianxiangduixiang.exe
+C:\Users\Herman\Desktop\c#_practice\mypractice\mianxiangduixiang\bin\Debug\mianxiangduixiang.pdb
+C:\Users\Herman\Desktop\c#_practice\mypractice\mianxiangduixiang\obj\Debug\mianxiangduixiang.exe
+C:\Users\Herman\Desktop\c#_practice\mypractice\mianxiangduixiang\obj\Debug\mianxiangduixiang.pdb

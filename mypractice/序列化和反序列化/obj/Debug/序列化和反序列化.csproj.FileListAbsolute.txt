@@ -1,0 +1,6 @@
+C:\Users\Herman\Desktop\c#_practice\mypractice\序列化和反序列化\bin\Debug\序列化和反序列化.exe.config
+C:\Users\Herman\Desktop\c#_practice\mypractice\序列化和反序列化\bin\Debug\序列化和反序列化.exe
+C:\Users\Herman\Desktop\c#_practice\mypractice\序列化和反序列化\bin\Debug\序列化和反序列化.pdb
+C:\Users\Herman\Desktop\c#_practice\mypractice\序列化和反序列化\obj\Debug\序列化和反序列化.csprojResolveAssemblyReference.cache
+C:\Users\Herman\Desktop\c#_practice\mypractice\序列化和反序列化\obj\Debug\序列化和反序列化.exe
+C:\Users\Herman\Desktop\c#_practice\mypractice\序列化和反序列化\obj\Debug\序列化和反序列化.pdb
