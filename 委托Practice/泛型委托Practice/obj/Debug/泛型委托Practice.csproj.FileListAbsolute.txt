@@ -1,0 +1,6 @@
+C:\Users\Herman\Desktop\c#_practice\委托Practice\泛型委托Practice\bin\Debug\泛型委托Practice.exe.config
+C:\Users\Herman\Desktop\c#_practice\委托Practice\泛型委托Practice\bin\Debug\泛型委托Practice.exe
+C:\Users\Herman\Desktop\c#_practice\委托Practice\泛型委托Practice\bin\Debug\泛型委托Practice.pdb
+C:\Users\Herman\Desktop\c#_practice\委托Practice\泛型委托Practice\obj\Debug\泛型委托Practice.csprojResolveAssemblyReference.cache
+C:\Users\Herman\Desktop\c#_practice\委托Practice\泛型委托Practice\obj\Debug\泛型委托Practice.exe
+C:\Users\Herman\Desktop\c#_practice\委托Practice\泛型委托Practice\obj\Debug\泛型委托Practice.pdb

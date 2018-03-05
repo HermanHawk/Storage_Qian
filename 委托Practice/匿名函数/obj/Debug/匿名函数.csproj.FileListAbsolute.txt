@@ -1,0 +1,6 @@
+C:\Users\Herman\Desktop\c#_practice\委托Practice\匿名函数\bin\Debug\匿名函数.exe.config
+C:\Users\Herman\Desktop\c#_practice\委托Practice\匿名函数\bin\Debug\匿名函数.exe
+C:\Users\Herman\Desktop\c#_practice\委托Practice\匿名函数\bin\Debug\匿名函数.pdb
+C:\Users\Herman\Desktop\c#_practice\委托Practice\匿名函数\obj\Debug\匿名函数.exe
+C:\Users\Herman\Desktop\c#_practice\委托Practice\匿名函数\obj\Debug\匿名函数.pdb
+C:\Users\Herman\Desktop\c#_practice\委托Practice\匿名函数\obj\Debug\匿名函数.csprojResolveAssemblyReference.cache

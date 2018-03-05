@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "委托Practice", "委托Practice\委托Practice.csproj", "{CC8209F1-EF58-41F7-A743-73FE0CE8BAF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "匿名函数", "匿名函数\匿名函数.csproj", "{C9BFAAED-52BC-4411-9AA1-5A88B3CE31C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "泛型委托Practice", "泛型委托Practice\泛型委托Practice.csproj", "{14C4A036-3F42-405C-9D16-5BA8F17E6984}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC8209F1-EF58-41F7-A743-73FE0CE8BAF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC8209F1-EF58-41F7-A743-73FE0CE8BAF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC8209F1-EF58-41F7-A743-73FE0CE8BAF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC8209F1-EF58-41F7-A743-73FE0CE8BAF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9BFAAED-52BC-4411-9AA1-5A88B3CE31C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9BFAAED-52BC-4411-9AA1-5A88B3CE31C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9BFAAED-52BC-4411-9AA1-5A88B3CE31C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9BFAAED-52BC-4411-9AA1-5A88B3CE31C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14C4A036-3F42-405C-9D16-5BA8F17E6984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14C4A036-3F42-405C-9D16-5BA8F17E6984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14C4A036-3F42-405C-9D16-5BA8F17E6984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14C4A036-3F42-405C-9D16-5BA8F17E6984}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,55 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="css/StyleSheet.css" type="text/css" rel="stylesheet" />
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+            height:50px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+
+    <div id="mpage">
+        <div id="top" >
+            <!--<div id="top_left" style="background-image: url('/images/logo.jpg')"></div>
+            <div id="top_right" style="background-image: url('/images/top_right.gif')"></div>   -->
+            <asp:Image ID="Image1" runat="server" ImageAlign="Left" ImageUrl="~/images/logo.jpg" Width="30%" Height="250px" />
+            <asp:Image ID="Image2" runat="server" ImageAlign="Right" ImageUrl="~/images/top_right.gif" Width="70%" Height="250px" />
+        </div>
+        <div id="menu">
+            <table class="auto-style1">
+                <tr>
+                    <td>&nbsp;<asp:HyperLink ID="HyperLink1" runat="server" style="color: #00FF00" NavigateUrl="~/Default.aspx">        首页</asp:HyperLink></td>
+                    <td>&nbsp;<asp:HyperLink ID="HyperLink2" runat="server" style="color: #00FF00" NavigateUrl="~/Trip.aspx">        出行方式</asp:HyperLink></td>
+                    <td>&nbsp;<asp:HyperLink ID="HyperLink3" runat="server" style="color: #00FF00" NavigateUrl="~/Hotel.aspx">        酒店查询</asp:HyperLink></td>
+                    <td>&nbsp;<asp:HyperLink ID="HyperLink4" runat="server" style="color: #00FF00" NavigateUrl="~/place.aspx">        景点介绍</asp:HyperLink></td>
+                    <td>&nbsp;<asp:HyperLink ID="HyperLink5" runat="server" style="color: #00FF00" NavigateUrl="~/login.aspx">        用户登录</asp:HyperLink></td>
+                   
+                </tr>
+            </table>
+        </div>
+       
+        <div id="mbody" >
+            <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server"  >              
+               
+            </asp:ContentPlaceHolder>
+        </div>
+        <div id="bottom">
+            
+            锦程安乐游||版权所有2017
+            
+        </div>
+    </div>
+    </form>
+</body>
+</html>

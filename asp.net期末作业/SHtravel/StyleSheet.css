@@ -1,0 +1,100 @@
+﻿*{
+    margin:0px;
+    padding:0px;                                        /*margin是向外填充0PX就是向外间距为0，padding是向内填充为0个像素*/
+}
+body {
+    margin:0px;
+}
+#mpage {
+    width:95%;                                          /*层的宽度*/
+    text-align:center;                                   /*层中的内容水平居中显示*/
+    font-family:楷体;                                    /*层中的字体*/
+    font-size:12pt;                                       /*层中字的大小*/
+    margin:0 auto;                               /*margin:0 auto 上下边界为0，左右根据宽度自适应！就是~~水平居中*/
+}
+#top{
+    width:100%;
+    height:250px;                                        /*层的高度*/
+    /*background-image:url(images/banner.jpg);             设置背景图片*/
+   /* background-repeat:no-repeat;                         设置背景图片的重复方式*/
+}
+
+#top_left{
+    width:307px;
+    height:250px;
+    float:left;
+}
+#top_right{
+    width:950px;
+    height:250px;
+    float:right;
+}
+#menu {
+    width: 100%;
+    height: 50px;
+    background-image: url(images/navt2.gif);
+    background-repeat: repeat-x;
+                                                          /*padding-top: 8px;设置 p 元素的上内边距：*/
+                                                          /* padding-left: 400px;设置 p 元素的左内边距：*/
+}
+#left{
+     width:200px;
+    //height:105px;
+    //background-image:url(images/banner.jpg);
+   // background-repeat:no-repeat;
+}
+
+#mbody{
+    width:calc(100％-200px);  
+    background-image:url(images/dbg.gif);
+    background-repeat:repeat-x;
+    text-align:center;                                   /*文本对齐方式*/
+    float:right;margin-right:10px;                       /*把图像向右浮动；右外边距上外边距*/
+	margin-top:-500px;
+} 
+
+#bottom {
+    width: 100%;
+    height: 50px;
+    background-color: #5187a7;                             /*设置背景色*/
+    font-size: 25px;color: #00FF00;                        /*字体大小和颜色*/
+}
+/*.link{
+    border:none;
+    font-size:12px;
+    color:white;
+    margin-left:50px;
+}*/
+a:link       /* 未访问的链接 */
+{
+    text-decoration:none;color: #FF0000
+}
+a:hover      /* 当有鼠标悬停在链接上 */
+{
+    text-decoration:underline;color: #FF00FF
+}
+a:visited    /* 已访问的链接 */
+{
+    color: #00FF00
+
+} 
+a:active     /* 被选择的链接 */
+{
+    color: #0000FF
+}
+
+/*主页上的元素*/
+/*
+#ImgNav {
+    width:950px;
+    height:300px; 
+    padding-top:100px;
+}
+.imglk {
+    margin-left:40px;
+    margin-right:40px;
+}*/
+
+
+
+
