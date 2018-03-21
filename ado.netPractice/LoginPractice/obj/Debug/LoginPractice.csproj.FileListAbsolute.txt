@@ -1,0 +1,10 @@
+C:\Users\Herman\Desktop\c#_practice\ado.netPractice\LoginPractice\obj\Debug\LoginPractice.csprojResolveAssemblyReference.cache
+C:\Users\Herman\Desktop\c#_practice\ado.netPractice\LoginPractice\obj\Debug\LoginPractice.Form1.resources
+C:\Users\Herman\Desktop\c#_practice\ado.netPractice\LoginPractice\obj\Debug\LoginPractice.Properties.Resources.resources
+C:\Users\Herman\Desktop\c#_practice\ado.netPractice\LoginPractice\obj\Debug\LoginPractice.csproj.GenerateResource.Cache
+C:\Users\Herman\Desktop\c#_practice\ado.netPractice\LoginPractice\bin\Debug\LoginPractice.exe.config
+C:\Users\Herman\Desktop\c#_practice\ado.netPractice\LoginPractice\bin\Debug\LoginPractice.exe
+C:\Users\Herman\Desktop\c#_practice\ado.netPractice\LoginPractice\bin\Debug\LoginPractice.pdb
+C:\Users\Herman\Desktop\c#_practice\ado.netPractice\LoginPractice\obj\Debug\LoginPractice.exe
+C:\Users\Herman\Desktop\c#_practice\ado.netPractice\LoginPractice\obj\Debug\LoginPractice.pdb
+C:\Users\Herman\Desktop\c#_practice\ado.netPractice\LoginPractice\obj\Debug\LoginPractice.ChangePwd.resources
