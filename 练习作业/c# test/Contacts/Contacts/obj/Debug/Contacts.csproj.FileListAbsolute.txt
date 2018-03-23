@@ -1,0 +1,9 @@
+E:\练习作业\c# test\Contacts\Contacts\bin\Debug\Contacts.exe.config
+E:\练习作业\c# test\Contacts\Contacts\bin\Debug\Contacts.exe
+E:\练习作业\c# test\Contacts\Contacts\bin\Debug\Contacts.pdb
+E:\练习作业\c# test\Contacts\Contacts\obj\Debug\Contacts.csprojResolveAssemblyReference.cache
+E:\练习作业\c# test\Contacts\Contacts\obj\Debug\Contacts.Form1.resources
+E:\练习作业\c# test\Contacts\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+E:\练习作业\c# test\Contacts\Contacts\obj\Debug\Contacts.csproj.GenerateResource.Cache
+E:\练习作业\c# test\Contacts\Contacts\obj\Debug\Contacts.exe
+E:\练习作业\c# test\Contacts\Contacts\obj\Debug\Contacts.pdb

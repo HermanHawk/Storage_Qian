@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1511521672 source:e:\Á·Ï°×÷Òµ\c.c++ test\helloworld\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<windows.h>
+	<vector>
+	<algorithm>
+

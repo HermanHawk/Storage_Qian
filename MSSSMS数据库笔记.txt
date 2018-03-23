@@ -1,0 +1,101 @@
+Data Source=DESKTOP-LJJR5B0\\HERMAN;Initial Catalog=db_travel;Integrated Security=True
+
+***************************版本***************************************************
+SQL Sever 2008 Datacenter 数据中心版本（功能最全的，服务器内存CPU有多大就用多大）
+SQL Sever 2008 Enterprise 企业版本（功能同样的，对使用服务器资源有限制）
+SQL Sever 2008 Standard   标准版本（功能比企业版又少一些）
+SQL Sever 2008 Web        web版本（只有一些部分功能 ）
+SQL Sever 2008 Workgroup  工作主版本（也有限制 ）
+SQL Sever 2008 Developer  开发者版本（功能和数据中心是一样的，只不过授权不一样，相当于免费版，不能用作大型的商业用途）
+SQL Sever 2008 Express    快速版本（免费版本，功能及其不全）
+SQL Sever Compact	  手机版本
+
+
+***************************查询版本及服务***************************************************
+print @@ version查询数据库版本
+services.msc数据库服务
+
+***************************数据库的卸载***************************************************
+
+卸载数据库
+1.卸载(凡是带SQL sever的全卸)
+2.删除安装目录
+3.删除注册表regedit  (1)current_user  sofeware-microsoft - 凡是带sql sever的全删
+		     (2)Local_machine sofeware-microsoft - 凡是带sql sever的全删
+4.版本问题
+
+***************************常用数据类型***************************************************
+1.image类型 用来存储byte[]
+2.字符串类型
+  char
+  nchar
+  varchar
+  nvarchar
+  text
+  ntext
+  varchar(max)
+  nvarchar(max)
+  以上这些数据类型都表示字符串
+  (1)不带N的表示英文数字等占用1个字节，中文一个字符占两个字节；带N的表示都占两个字节。
+  (2)不带n的这些数据类型长度最长可以设置为8000；带N的这次数据类型长度最长可以设置为4000.
+  (3)带var的是可变长度，会根据实际存储数据的大小动态重新分配存储空间，相对来说节省存储空间。
+  (4)不带Var的是固定长度
+
+  
+***************************SQL代码***************************************************
+一：
+A:直接设置，没有设置特殊选项，都是使用默认的
+1.创建数据库   create database MyDatabase(数据库实例)
+2.删除数据库   drop   database Mydatabase(数据库实例)
+B:创建数据库的时候设置一些参数
+1.创建数据库   
+	  create database MyDatabaseOne
+	  on primary
+	  (       --配置主数据文件的选项(之间用逗号隔开，最后一个不用)
+			name = 'MyDatabaseOne',  --主数据文件的逻辑名称
+			filename = 'c:\MyDatabaseOne.mdf',--主数据文件的实际保存路径
+			size = 5MB, 			--初始大小
+			maxsize = 150MB,		--最大存储  (可以不设，表示无限大小)
+			filegrowth = 20%		--增长方式
+	  )
+	  log on
+	  (
+			  --配置日志文件的选项
+			name = 'MyDatabaseOne_log',  --日志文件的逻辑名称
+			filename = 'c:\MyDatabaseOne_log.ldf',--日志文件的实际保存路径
+			size = 5MB, 			--初始大小
+			maxsize = 150MB,		--最大存储  (可以不设，表示无限大小)
+			filegrowth = 5mb		--文件增长率
+	  )
+  
+  
+  
+  二：
+  数据库中创建表
+  create table Departments
+  (
+	AutoId int identity(1,1) primary key,
+	--autoid列 int类型 自动编号1开始增量为1	 主键
+	DepartmentName nvarchar(50) not null
+	--departmentName列 nvarchar(50)类型 不为空
+  )
+    数据库中删除表
+  drop table Departments
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

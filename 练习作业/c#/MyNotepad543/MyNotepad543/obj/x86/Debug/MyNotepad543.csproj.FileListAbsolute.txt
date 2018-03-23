@@ -1,0 +1,7 @@
+D:\MyNotepad543\MyNotepad543\bin\Debug\MyNotepad543.exe
+D:\MyNotepad543\MyNotepad543\bin\Debug\MyNotepad543.pdb
+D:\MyNotepad543\MyNotepad543\obj\x86\Debug\MyNotepad543.Form1.resources
+D:\MyNotepad543\MyNotepad543\obj\x86\Debug\MyNotepad543.Properties.Resources.resources
+D:\MyNotepad543\MyNotepad543\obj\x86\Debug\MyNotepad543.csproj.GenerateResource.Cache
+D:\MyNotepad543\MyNotepad543\obj\x86\Debug\MyNotepad543.exe
+D:\MyNotepad543\MyNotepad543\obj\x86\Debug\MyNotepad543.pdb

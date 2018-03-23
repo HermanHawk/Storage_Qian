@@ -1,0 +1,6 @@
+E:\练习作业\c# test\test\test\bin\Debug\test.exe.config
+E:\练习作业\c# test\test\test\bin\Debug\test.exe
+E:\练习作业\c# test\test\test\bin\Debug\test.pdb
+E:\练习作业\c# test\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+E:\练习作业\c# test\test\test\obj\Debug\test.exe
+E:\练习作业\c# test\test\test\obj\Debug\test.pdb
