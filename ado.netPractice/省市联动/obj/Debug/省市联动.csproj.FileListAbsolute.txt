@@ -1,0 +1,9 @@
+C:\Users\Herman\Desktop\c#_practice\ado.netPractice\省市联动\bin\Debug\省市联动.exe.config
+C:\Users\Herman\Desktop\c#_practice\ado.netPractice\省市联动\bin\Debug\省市联动.exe
+C:\Users\Herman\Desktop\c#_practice\ado.netPractice\省市联动\bin\Debug\省市联动.pdb
+C:\Users\Herman\Desktop\c#_practice\ado.netPractice\省市联动\obj\Debug\省市联动.csprojResolveAssemblyReference.cache
+C:\Users\Herman\Desktop\c#_practice\ado.netPractice\省市联动\obj\Debug\省市联动.Form1.resources
+C:\Users\Herman\Desktop\c#_practice\ado.netPractice\省市联动\obj\Debug\省市联动.Properties.Resources.resources
+C:\Users\Herman\Desktop\c#_practice\ado.netPractice\省市联动\obj\Debug\省市联动.csproj.GenerateResource.Cache
+C:\Users\Herman\Desktop\c#_practice\ado.netPractice\省市联动\obj\Debug\省市联动.exe
+C:\Users\Herman\Desktop\c#_practice\ado.netPractice\省市联动\obj\Debug\省市联动.pdb

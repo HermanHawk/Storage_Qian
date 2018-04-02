@@ -1,0 +1,1 @@
+C:\Users\Herman\Desktop\c#_practice\ado.netPractice\通过存储过程实现对表的增删改查\bin\Debug\通过存储过程实现对表的增删改查.exe.config

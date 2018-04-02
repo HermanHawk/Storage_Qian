@@ -4,3 +4,6 @@ C:\Users\Herman\Desktop\c#_practice\超市收银系统\超市收银系统\bin\De
 C:\Users\Herman\Desktop\c#_practice\超市收银系统\超市收银系统\bin\Debug\超市收银系统.pdb
 C:\Users\Herman\Desktop\c#_practice\超市收银系统\超市收银系统\obj\Debug\超市收银系统.exe
 C:\Users\Herman\Desktop\c#_practice\超市收银系统\超市收银系统\obj\Debug\超市收银系统.pdb
+E:\Storage_Qian\超市收银系统\超市收银系统\bin\Debug\超市收银系统.exe.config
+E:\Storage_Qian\超市收银系统\超市收银系统\obj\Debug\超市收银系统.exe
+E:\Storage_Qian\超市收银系统\超市收银系统\obj\Debug\超市收银系统.pdb

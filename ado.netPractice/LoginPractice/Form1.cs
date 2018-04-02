@@ -158,5 +158,23 @@ namespace LoginPractice
             ChangePwd f2 = new ChangePwd();
             f2.Show();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            string sql = "select count(*) from Users where UserName = @LoginUserName and Pwd = @LoginPassword";
+            SqlParameter[] pms = new SqlParameter[] { 
+                                        new SqlParameter("@LoginUserName", SqlDbType.NVarChar, 50) { Value = txtName.Text.Trim() },
+                                        new SqlParameter("@LoginPassword", SqlDbType.NVarChar, 50) { Value = txtPwd.Text }
+                    };
+            int count = (int)SqlHelper.ExecuteScalar(sql,pms);
+            if (count > 0)
+            {
+                MessageBox.Show("登录成功", "提示");
+            }
+            else
+            {
+                MessageBox.Show("登录失败", "提示");
+            }
+        }
     }
 }
