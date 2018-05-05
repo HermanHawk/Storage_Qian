@@ -7,3 +7,13 @@ C:\Users\Herman\Desktop\c#_practice\ado.netPractice\省市联动\obj\Debug\省�
 C:\Users\Herman\Desktop\c#_practice\ado.netPractice\省市联动\obj\Debug\省市联动.csproj.GenerateResource.Cache
 C:\Users\Herman\Desktop\c#_practice\ado.netPractice\省市联动\obj\Debug\省市联动.exe
 C:\Users\Herman\Desktop\c#_practice\ado.netPractice\省市联动\obj\Debug\省市联动.pdb
+E:\Storage_Qian\ado.netPractice\省市联动\bin\Debug\省市联动.exe.config
+E:\Storage_Qian\ado.netPractice\省市联动\obj\Debug\省市联动.exe
+E:\Storage_Qian\ado.netPractice\省市联动\obj\Debug\省市联动.pdb
+E:\Storage_Qian\ado.netPractice\省市联动\bin\Debug\省市联动.exe
+E:\Storage_Qian\ado.netPractice\省市联动\bin\Debug\省市联动.pdb
+E:\Storage_Qian\ado.netPractice\省市联动\obj\Debug\省市联动.csprojResolveAssemblyReference.cache
+E:\Storage_Qian\ado.netPractice\省市联动\obj\Debug\省市联动.Form1.resources
+E:\Storage_Qian\ado.netPractice\省市联动\obj\Debug\省市联动.Properties.Resources.resources
+E:\Storage_Qian\ado.netPractice\省市联动\obj\Debug\省市联动.csproj.GenerateResource.Cache
+E:\Storage_Qian\ado.netPractice\省市联动\obj\Debug\省市联动.省市数据递归加载到treeview上.resources

@@ -21,9 +21,12 @@ namespace 省市联动
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            //把所有的省份加载到combox上
             LoadProvince();
         }
-
+         /// <summary>
+         /// 加载省份
+         /// </summary>
         private void LoadProvince()
         {
             string sql = "select AreaId,AreaName from Area where AreaPId = @PId";

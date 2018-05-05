@@ -4,3 +4,9 @@ C:\Users\Herman\Desktop\c#_practice\委托Practice\委托Practice\bin\Debug\委�
 C:\Users\Herman\Desktop\c#_practice\委托Practice\委托Practice\obj\Debug\委托Practice.csprojResolveAssemblyReference.cache
 C:\Users\Herman\Desktop\c#_practice\委托Practice\委托Practice\obj\Debug\委托Practice.exe
 C:\Users\Herman\Desktop\c#_practice\委托Practice\委托Practice\obj\Debug\委托Practice.pdb
+E:\Storage_Qian\委托Practice\委托Practice\bin\Debug\委托Practice.exe.config
+E:\Storage_Qian\委托Practice\委托Practice\obj\Debug\委托Practice.exe
+E:\Storage_Qian\委托Practice\委托Practice\obj\Debug\委托Practice.pdb
+E:\Storage_Qian\委托Practice\委托Practice\bin\Debug\委托Practice.exe
+E:\Storage_Qian\委托Practice\委托Practice\bin\Debug\委托Practice.pdb
+E:\Storage_Qian\委托Practice\委托Practice\obj\Debug\委托Practice.csprojResolveAssemblyReference.cache

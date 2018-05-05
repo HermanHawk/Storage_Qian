@@ -16,7 +16,8 @@ namespace 省市联动
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            //Application.Run(new Form1());
+            Application.Run(new 省市数据递归加载到treeview上());
         }
     }
 }

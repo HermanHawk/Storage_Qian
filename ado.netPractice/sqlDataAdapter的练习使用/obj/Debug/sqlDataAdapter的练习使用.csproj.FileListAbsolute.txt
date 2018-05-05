@@ -9,3 +9,6 @@ C:\Users\Herman\Desktop\c#_practice\ado.netPractice\sqlDataAdapter的练习使�
 C:\Users\Herman\Desktop\c#_practice\ado.netPractice\sqlDataAdapter的练习使用\obj\Debug\sqlDataAdapter的练习使用.pdb
 C:\Users\Herman\Desktop\c#_practice\ado.netPractice\sqlDataAdapter的练习使用\bin\Debug\LoginPractice.exe
 C:\Users\Herman\Desktop\c#_practice\ado.netPractice\sqlDataAdapter的练习使用\bin\Debug\LoginPractice.pdb
+E:\Storage_Qian\ado.netPractice\sqlDataAdapter的练习使用\bin\Debug\sqlDataAdapter的练习使用.exe.config
+E:\Storage_Qian\ado.netPractice\sqlDataAdapter的练习使用\obj\Debug\sqlDataAdapter的练习使用.exe
+E:\Storage_Qian\ado.netPractice\sqlDataAdapter的练习使用\obj\Debug\sqlDataAdapter的练习使用.pdb

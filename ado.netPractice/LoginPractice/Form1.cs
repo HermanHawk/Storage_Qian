@@ -101,12 +101,15 @@ namespace LoginPractice
             string loginId = txtName.Text.Trim();
             string loginPwd = txtPwd.Text;
 
-            string constr = "Data Source = .;Initial Catalog = db_travel;Integrated Security = True";
+           // string constr = "Data Source = .;Initial Catalog = db_travel;Integrated Security = True";
+            string constr = "Data Source = .;Initial Catalog = DIY_Shop;Integrated Security = True";
             using (SqlConnection con = new SqlConnection(constr))
             {
                
                 //string sql = string.Format("select  count(*) from Users  where UserName='{0}' and Pwd = '{1}'", loginId, loginPwd);
-                string sql = string.Format("select * from Users where UserName = '{0}'",loginId);
+                //string sql = string.Format("select * from Users where UserName = '{0}'",loginId);
+                //string sql = "select * from UserInfo where Telephone = @loginId";
+                string sql = string.Format("select * from UserInfo where Telephone = '{0}'", loginId);
                 using (SqlCommand cmd = new SqlCommand(sql, con))
                 {
                     con.Open();
@@ -166,7 +169,7 @@ namespace LoginPractice
                                         new SqlParameter("@LoginUserName", SqlDbType.NVarChar, 50) { Value = txtName.Text.Trim() },
                                         new SqlParameter("@LoginPassword", SqlDbType.NVarChar, 50) { Value = txtPwd.Text }
                     };
-            int count = (int)SqlHelper.ExecuteScalar(sql,pms);
+            int count = (int)SqlHelper.ExecuteScalar(sql,System.Data.CommandType.Text ,pms);
             if (count > 0)
             {
                 MessageBox.Show("登录成功", "提示");

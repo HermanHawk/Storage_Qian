@@ -4,3 +4,4 @@ C:\Users\Herman\Desktop\c#_practice\mypractice\mypractice\bin\Debug\mypractice.p
 C:\Users\Herman\Desktop\c#_practice\mypractice\mypractice\obj\Debug\mypractice.csprojResolveAssemblyReference.cache
 C:\Users\Herman\Desktop\c#_practice\mypractice\mypractice\obj\Debug\mypractice.exe
 C:\Users\Herman\Desktop\c#_practice\mypractice\mypractice\obj\Debug\mypractice.pdb
+E:\Storage_Qian\mypractice\mypractice\bin\Debug\mypractice.exe.config

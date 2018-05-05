@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "省市联动", "省市联�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sqlDataAdapter的练习使用", "sqlDataAdapter的练习使用\sqlDataAdapter的练习使用.csproj", "{DEE47E9D-E7BE-4F73-A645-AE55D27E12C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "编写发送邮件的代码", "编写发送邮件的代码\编写发送邮件的代码.csproj", "{5FB8F4A1-38CC-4510-BC1E-2366D8F1FC22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "使用GDI绘制验证码", "使用GUI绘制验证码\使用GDI绘制验证码.csproj", "{A6C38714-D4B6-41E5-A6CE-A85AC012D789}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{DEE47E9D-E7BE-4F73-A645-AE55D27E12C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEE47E9D-E7BE-4F73-A645-AE55D27E12C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEE47E9D-E7BE-4F73-A645-AE55D27E12C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FB8F4A1-38CC-4510-BC1E-2366D8F1FC22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FB8F4A1-38CC-4510-BC1E-2366D8F1FC22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FB8F4A1-38CC-4510-BC1E-2366D8F1FC22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FB8F4A1-38CC-4510-BC1E-2366D8F1FC22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6C38714-D4B6-41E5-A6CE-A85AC012D789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6C38714-D4B6-41E5-A6CE-A85AC012D789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6C38714-D4B6-41E5-A6CE-A85AC012D789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6C38714-D4B6-41E5-A6CE-A85AC012D789}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
