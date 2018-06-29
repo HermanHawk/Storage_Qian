@@ -1,0 +1,436 @@
+﻿body {
+    font: 12px;
+    background-color: #ffffff;
+    color: #666; 
+}
+ body,div,a {
+    padding: 0;
+    margin: 0;
+    font-size:12px;
+    text-decoration:none;
+}
+.top {
+    width: 990px;
+    margin: 0 auto;
+}
+.top .logo {
+    width: 300px;
+    position: relative;
+    float: left;
+}
+.top .logo a img
+{
+    width:192px;
+    height:83px;
+ }
+.logo b {
+    display: block;
+    position: absolute;
+    width: 110px;
+    height: 40px;
+    right: 0;
+    bottom:50%;
+    margin-bottom: -30px;
+    font-family:微软雅黑;
+    font-weight:400;
+    font-size: 25px;
+    text-align:center;
+}
+.r-tishi {
+    float:right;
+    position:relative;
+    top:60px;
+    color:#666;
+    font-size:13px;
+    text-align:center;
+    
+}
+.r-tishi span{
+    display:block;
+    width:18px;
+    height:14px;
+    float:left;
+    margin-right:5px;
+    margin-top:2px;
+    background:url("images/q-icon.png");
+    background-repeat:no-repeat;
+   
+}
+.k {
+    width:100%;
+    height:40px;
+    background-color: #FFF8F0 ;
+    float:left;
+    font-size:14px;
+    text-align:center;
+}   
+.k span {
+    display:block;
+    padding-top: 10px;
+}
+.content {
+    width: 100%;
+    height: 475px;
+    background-color:#e4393c;
+    float:left;
+   
+}
+.w {    
+   width:990px;
+   height:475px;
+   margin: 0 auto;
+   position:relative;
+}
+.denglu {
+   width:346px;
+   height:400px;
+   background-color:#fff;
+   position:absolute;
+   top:15px;
+   right:0px;
+   overflow:hidden;
+   
+}
+.denglu span
+{
+   display:block;
+   text-align:center;
+   line-height:50px;
+   }
+.s-tishi {
+  
+   font-size:14px;
+   color:#999;
+   background-color:#fff8f0;
+   
+}
+.zhanghao 
+{
+   font-size:18px;
+   font-weight:700;
+   color:#e85356;
+   border-bottom:2px solid #F4F4F4;
+}
+.loginbox
+{
+    position:relative;
+    width:306px;
+    margin-right:auto;
+    margin-left:auto;
+}
+.m
+{
+   width:100%;
+   height:38px;
+   border:1px solid #BDBDBD;
+}
+.loginform
+{
+    margin-top:30px;
+   
+}
+.pwdform
+{
+   margin-top:23px;
+}
+.l-icon
+{  
+    width:38px;
+    height:38px;
+    float:left;
+    background:url("images/pwd-icons-new.png");
+    background-repeat:no-repeat;
+}
+.loginn 
+{
+    background-position:0 0;
+}
+.loginp
+{
+    background-position:-48px 0;
+}
+
+.text
+{
+    height:18px;
+    line-height:18px;
+    margin-top:8px;
+    margin-left:10px;
+    border:none;
+    font-size:14px;
+    outline:none;
+    font-family:"宋体";
+}
+
+#forgetpwd
+{
+    display:block;
+    color:#666;
+    margin-top:10px;
+    float:right;
+}
+#forgetpwd:hover
+{
+    color:#E4393C;
+    text-decoration:underline;
+}
+.btndenglu
+{
+    width:100%;
+    height:40px;
+    margin-top:50px;
+    
+}
+.btnd{cursor:pointer;}
+.regist
+{
+    width:100%;
+    height:30px;
+    margin-top:20px;
+    line-height:30px;
+    border-top:1px solid #BDBDBD;
+    text-align:right;
+    padding-top:5px;
+}
+.regist a
+{
+    display:inline-block;
+    font-size:16px;
+    color:#B61D1D;
+
+}
+.regist a:hover
+{
+    text-decoration:underline;
+}
+
+.regist span 
+{
+    display:block;
+    float:right;
+    width:16px;
+    height:16px;
+    margin-top:8px;
+    margin-left:5px;
+    background:url("images/pwd-icons-new.png");
+    background-repeat:no-repeat;
+    background-position:-104px -75px 
+}
+.footer
+{
+    width:100%;
+    margin-top:10px;
+    float:left;
+}
+.md 
+{
+    width:990px;
+    margin:0 auto;
+    
+}
+.footer ul
+{
+    display:block;
+    text-align:center;
+}
+.footer a
+{
+    display:inline-block;
+    color:#666;
+    font-size:14px;
+    padding:5px 10px;
+}
+.footer a:hover
+{
+    color:#B61D1D;
+    text-decoration:underline;
+}
+.footer p
+{
+    display:block;
+    text-align:center;
+   
+}
+/*登陆页面结束*/
+
+
+/*注册页面*/
+.header
+{
+    width:100%;
+}
+.header .top
+{
+    width:200px;
+    margin: 0 auto;
+}
+.header .top a img 
+{
+    width:192px;
+    height:83px;
+}
+.frame
+{
+    width:100%;
+    padding:0;
+}
+.cbox 
+{
+    width:310px;
+    margin:0 auto;
+    position:relative;
+    margin-top:20px;
+    padding:14px 18px;
+    border:1px solid #BDBDBD;
+    border-radius:5px;
+}
+.cbox h1
+{
+    display:block;
+    font-family:"Microsoft Yahei",Arial,sans-serif;
+    font-weight:400;
+    font-size:28px;
+    padding-bottom:10px;
+    margin:0;
+}
+.box
+{
+    width:100%;
+    height:80px;
+}
+.box h3
+{
+    margin:0;
+    padding-bottom:8px;
+    font-size:14px;
+   
+}
+.textbox
+{
+    width:100%;
+    border:1px solid #BDBDBD;
+    border-radius:4px;
+    color:black;
+}
+#phl
+{
+    display:none;
+ }
+#tnl
+{
+    display:none;
+}
+#pwdl
+{
+    display:none;
+}
+
+.embox{
+    width:100%;
+    border:1px solid #BDBDBD;
+    border-radius:4px;
+    color:black;
+}
+.btn-box
+{
+    width:100%;
+    height:80px;
+    
+}
+.btnagree
+{
+    font-size:16px;
+    cursor:pointer;
+    font-family:宋体;
+    border-radius:4px;
+}
+.re-box
+{
+    width:100%;
+}
+.re-box a:hover
+{
+    color:red ;
+}
+.foot
+{
+    width:100%;
+   
+    margin-top:20px;
+    overflow:hidden;
+  }
+.m-foot
+{
+    width:600px;
+    height:100px;
+    margin:0 auto;
+    box-shadow:0  -2px 0 #ccc;
+}
+#foot-ul
+{ 
+   display:block;
+   height:50px;
+   line-height:50px;
+   overflow:hidden;
+   text-align:center;
+   padding:0;
+}
+#foot-ul li 
+{
+    display:inline-block;
+    margin:10px 20px;
+}
+#foot-ul li a
+{
+    color:#666;
+}
+#foot-ul li a:hover
+{
+    color:red;
+}
+.m-foot span
+{
+    display:block;
+    text-align:center;
+}
+/*找回密码*/
+.lb {
+    display:block;
+    font-family:"微软雅黑";
+    font-size:16px;
+    margin-bottom:5px;
+}
+.cimg{
+    margin-left:5px;
+}
+.tn{
+    display:block;
+    font-family:"微软雅黑";
+    font-size:16px;
+    margin:10px 5px;
+    cursor:pointer;
+}
+.tebox{
+    box-shadow:2px 2px 10px #666;
+}
+.userph{
+    height:150px;
+    width:150px;
+    margin:0 auto;
+    border:1px solid;
+    border-color:#ccc;
+    border-radius:50%;
+   
+}
+.changelb{
+    font-size:16px;
+    color:#2489d4;
+    margin-left:40px;
+    
+}
+.changetext{
+    display:block;
+    font-size:16px;
+    margin-left:40px;
+    margin-top:8px;
+}
