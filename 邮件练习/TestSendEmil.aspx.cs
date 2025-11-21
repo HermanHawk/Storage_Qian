@@ -18,9 +18,9 @@ public partial class TestSendEmil : System.Web.UI.Page
         //1.创建一个邮件对象
         MailMessage mailObject = new MailMessage();
         //设置发件人
-        mailObject.From = new MailAddress("1625835052@qq.com");
+        mailObject.From = new MailAddress("12345@qq.com");
         //设置收件人
-        mailObject.To.Add(new MailAddress("13380326046@163.com"));
+        mailObject.To.Add(new MailAddress("67890@163.com"));
         //设置主题
         mailObject.SubjectEncoding = Encoding.UTF8;
         mailObject.Subject = "test";
@@ -41,7 +41,7 @@ public partial class TestSendEmil : System.Web.UI.Page
         smtpClient.UseDefaultCredentials = false;
         smtpClient.DeliveryMethod = SmtpDeliveryMethod.Network; //电子邮件通过网络发送到smtp服务器
         //smtpClient.Host = smtpServer;
-        smtpClient.Credentials = new NetworkCredential("1625835052@qq.com", "emrvozznsoxpbeeb");
+        smtpClient.Credentials = new NetworkCredential("12345@qq.com", "emrvozznsoxpbeeb");
         smtpClient.Send(mailObject);
         Literal lit = new Literal();
         lit.Text = "<script language='javascript'>window.alert('ok！')</script>";
