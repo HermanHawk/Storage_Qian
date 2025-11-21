@@ -24,9 +24,9 @@ namespace 编写发送邮件的代码
             //1.创建一个邮件对象
             MailMessage mailObject = new MailMessage();
             //设置发件人
-            mailObject.From = new MailAddress("13380326046@163.com");
+            mailObject.From = new MailAddress("12345@163.com");
             //设置收件人
-            mailObject.To.Add(new MailAddress("1625835052@qq.com"));
+            mailObject.To.Add(new MailAddress("67890@qq.com"));
             //设置主题
             mailObject.SubjectEncoding = Encoding.UTF8;
             mailObject.Subject = "找回密码";
@@ -39,7 +39,7 @@ namespace 编写发送邮件的代码
             //SmtpClient smtpClient = new SmtpClient("ip地址",端口号);
             SmtpClient smtpClient = new SmtpClient("smtp.163.com");
             //smtpClient.UseDefaultCredentials = true;
-            smtpClient.Credentials = new NetworkCredential("13380326046", "q16258");
+            smtpClient.Credentials = new NetworkCredential("12345", "12345");
             smtpClient.Send(mailObject);
             MessageBox.Show("ok");
 
